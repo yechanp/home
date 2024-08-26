@@ -1,2 +1,2 @@
-export const googleApiKey = 'AIzaSyBLREZHOUXCRv2aiwIr_zZyyNT1_x9hDac';
-export const googleSheetDocId = '18z2nZGJR8jQjjoE2BWlH2HgpnVRTcVyvjYbKETnc-g0';
+export const googleApiKey = 'AIzaSyDWvPNCrNJ8Nl0ZZWXJVVAGR80o2M9iXVQ';
+export const googleSheetDocId = '1bCHLCiIR8qCrXvh2wvfD4S5EcV0LkZ5JjdCPsvUt0ZI';
